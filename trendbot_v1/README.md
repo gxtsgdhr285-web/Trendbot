@@ -1,0 +1,1 @@
+TrendBot v1 full English structure placeholder.
